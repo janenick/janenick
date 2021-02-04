@@ -1,4 +1,4 @@
-### Hi there 👋
+### Привет всем, меня зовут Евгения!
 
 <!--
 **janenick/janenick** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🚀 Стремлюсь писать чистый читабельный код
+🔥 Хочу получить опыт разработки с настоящими проектами
+🎯 Освоить новые фреймворки
